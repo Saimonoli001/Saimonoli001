@@ -13,10 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saimonoli001&theme=dark&hide_border=true"
-       alt="GitHub Streak Stats" />
-</p>
 
 
 ## `> contribution.graph`
